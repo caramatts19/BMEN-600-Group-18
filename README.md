@@ -1,25 +1,26 @@
 # BMEN 600 Project
 ## BMEN-600-Group-18
 ## Team members present: Cara, Ahmad, Katelyn, Aya
-## Candidate Project 1 : We want to investigate post-operative outcomes using wearable technology.
-### Biomedical Problem
+## Candidate Project 1:
+### Biomedical Problem: Decreasing post-operative negative outcomes after heart surgeries
 ...
-### Possible Research Question
+### Possible Research Question: How can we predict post-operative complications using wearable technology, and which variables predict post op outcomes
 ...
-### Dataset
+### Dataset: Wearable-Based signals during physical exercises from patients with frailty after open-heart surgery:
+
 ...
-### Biggest Uncertainty
+### Biggest Uncertainty: confounding variables exist with the elderly
 ...
 ## Candidate Project 2
-### Biomedical Problem
+### Biomedical Problem: Decreasing post-operative complications through pre-operative markers 
 ...
-### Possible Research Question
+### Possible Research Question: Do certain pre-operative variables predict post-operative complications?
 ...
-### Dataset
+### Dataset: VitalDB, a high-fidelity multi-parameter vital signs database in surgical patients
 ...
-### Biggest Uncertainty
+### Biggest Uncertainty: data is too broad
 ...
 ## Current Decision
-We are currently leaning toward:
+We are currently leaning toward: #1
 ...
-Because:
+Because: More concrete impact
