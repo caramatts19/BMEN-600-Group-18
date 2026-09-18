@@ -1,7 +1,7 @@
 # BMEN 600 Project
 ## BMEN-600-Group-18
 ## Team members present: Cara, Ahmad, Katelyn, Aya
-## Candidate Project 1
+## Candidate Project 1 : We want to investigate post-operative outcomes using wearable technology.
 ### Biomedical Problem
 ...
 ### Possible Research Question
