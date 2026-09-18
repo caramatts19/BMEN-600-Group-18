@@ -3,24 +3,25 @@
 ## Team members present: Cara, Ahmad, Katelyn, Aya
 ## Candidate Project 1:
 ### Biomedical Problem: Decreasing post-operative negative outcomes after heart surgeries
-...
-### Possible Research Question: How can we predict post-operative complications using wearable technology, and which variables predict post op outcomes
-...
-### Dataset: Wearable-Based signals during physical exercises from patients with frailty after open-heart surgery:
 
-...
+### Possible Research Question: How can we predict post-operative complications using wearable technology, and which variables predict post op outcomes
+
+### Dataset: Wearable-Based signals during physical exercises from patients with frailty after open-heart surgery:
+https://physionet.org/content/wearable-exercise-frailty/1.0.0/
+
 ### Biggest Uncertainty: confounding variables exist with the elderly
-...
+
 ## Candidate Project 2
 ### Biomedical Problem: Decreasing post-operative complications through pre-operative markers 
-...
+
 ### Possible Research Question: Do certain pre-operative variables predict post-operative complications?
-...
+
 ### Dataset: VitalDB, a high-fidelity multi-parameter vital signs database in surgical patients
-...
+https://physionet.org/content/vitaldb/1.0.0/
+
 ### Biggest Uncertainty: data is too broad
-...
+
 ## Current Decision
 We are currently leaning toward: #1
-...
+
 Because: More concrete impact
