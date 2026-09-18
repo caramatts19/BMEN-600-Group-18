@@ -1,5 +1,25 @@
-# BMEN-600-Group-18
-
-Team members present: Cara, Ahmad, Katelyn, Aya
-
-Candidate Project 1:
+# BMEN 600 Project
+## BMEN-600-Group-18
+## Team members present: Cara, Ahmad, Katelyn, Aya
+## Candidate Project 1
+### Biomedical Problem
+...
+### Possible Research Question
+...
+### Dataset
+...
+### Biggest Uncertainty
+...
+## Candidate Project 2
+### Biomedical Problem
+...
+### Possible Research Question
+...
+### Dataset
+...
+### Biggest Uncertainty
+...
+## Current Decision
+We are currently leaning toward:
+...
+Because:
