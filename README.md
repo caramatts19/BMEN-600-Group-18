@@ -41,8 +41,11 @@ Team Understandng: Understanding the contents of the dataset and
 
 
 Milestone: Dataset Cleaning/Preprocessing
+
 Lead: Katelyn
+
 Collaborators and Reviewers: Aya
+
 Team Understandng: Know what the chosen variables are and what they represent
 
 
