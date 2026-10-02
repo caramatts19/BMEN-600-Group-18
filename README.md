@@ -21,8 +21,8 @@ https://physionet.org/content/vitaldb/1.0.0/
 
 ### Biggest Uncertainty: data is too broad
 
-## Current Decision
-We are currently leaning toward: #1
+## Project Decision
+We are going to go forward with candidate project 2, and focus on one type of surgery
 
 Because: More concrete impact
 
