@@ -27,25 +27,22 @@ We are currently leaning toward: #1
 Because: More concrete impact
 
 ## Project Plan
-Milestone: Literature Review and Background Research
-Lead: All
-Collaborators and Reviewers: All
+Milestone: Literature Review and Background Research. 
+Lead: All. 
+Collaborators and Reviewers: All. 
 Team Understandng: Understand the chosen problem and have background knowledge on the topic
 
 
-Milestone: Dataset Interpretation
-Lead: Katelyn
-Collaborators and Reviewers: All
+Milestone: Dataset Interpretation. 
+Lead: Katelyn. 
+Collaborators and Reviewers: All. 
 Team Understandng: Understanding the contents of the dataset and 
                    how the pre-op and post-op parameters are linked 
 
 
-Milestone: Dataset Cleaning/Preprocessing
-
-Lead: Katelyn
-
-Collaborators and Reviewers: Aya
-
+Milestone: Dataset Cleaning/Preprocessing\
+Lead: Katelyn\
+Collaborators and Reviewers: Aya\
 Team Understandng: Know what the chosen variables are and what they represent
 
 
