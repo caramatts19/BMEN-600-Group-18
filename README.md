@@ -9,6 +9,7 @@
 ### Steps to Run The Current Progress Check:
 
 ### Current Files:
+#### Class Tasks Folder: Contains Github updates that were required in class
 
 ### Software: Currently, we are using Python in Google Colab to process our data. The main libraries we are using are Pandas, Vitaldb, NumPy, and Matplotlib
 
