@@ -4,7 +4,7 @@
 
 ### Research Question: Which preoperative factors predict prolonged hospital length of stay among patients undergoing colorectal surgery?
 
-### Data Access Instructions: The dataset can be accessed at: https://physionet.org/content/vitaldb/1.0.0/ , and our current code can be found in the 
+### Data Access Instructions: The dataset can be accessed at: https://physionet.org/content/vitaldb/1.0.0/ , and the .csv files that we are currently using can be found in the code analysis folder. Our current code can be found in the 
 
 ### Steps to Run The Current Progress Check:
 
